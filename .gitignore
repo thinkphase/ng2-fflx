@@ -1,0 +1,9 @@
+.gitignore
+.idea
+.DS_Store
+.idea/NG2-FFLX.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+adm/
